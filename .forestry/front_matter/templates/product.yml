@@ -35,6 +35,7 @@ fields:
     required: true
   default: https://snipcart-hugo-forestry.netlify.com
 pages:
+- content/products/alrep.md
 - content/products/blue-cheese.md
 - content/products/camembert.md
 - content/products/farmhouse-cheddar.md

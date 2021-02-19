@@ -1,6 +1,7 @@
 +++
 date = "2019-04-10T15:46:32+00:00"
 description = "Native from France, this cheese is soft, moist and creamy. It is similar to Brie, but with higher fat content. Best paired with a sweet, crispy biscuit."
+draft = true
 id = "CAMEMBERT"
 image = "/uploads/camembert.jpg"
 name = "Camembert"
